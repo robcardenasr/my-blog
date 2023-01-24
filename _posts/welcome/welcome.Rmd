@@ -1,10 +1,22 @@
 ---
 title: "Welcome to My Blog"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Hello there! My name is Roberto Cárdenas-Retamal, I am an PhD student in Food and Resources Economics program, at University of Florida. I’m from chile, I studied a Bachelor in Economics and a Master in Environmental and Resources Economics at the University of Concepción.
+
+  My research are in economic development (in a broad sense) and sustainability. Specifically, is strongly oriented to study the socioeconomic sustainability of marine activities. Additionally, I am interested in understanding the welfare of individuals, specifically I have had experience with the study of intra-household relationships and time allocation. I’m also interested in economic history, economic education and economic pluralism. I have teaching experience in undergradute and graduate level.
+  
+  My work has been published in Food Policy and Environment, Development and Sustainability, so far. During my PhD studies, I will work in seafood markets and its implications on local economies and health.
+
+  Any comments, questions or suggestions? Please send me an email! robertocardenasr@ufl.edu
+
+  My research are in economic development (in a broad sense) and sustainability. Specifically, is strongly oriented to study the socioeconomic sustainability of marine activities. Additionally, I am interested in understanding the welfare of individuals, specifically I have had experience with the study of intra-household relationships and time allocation. I’m also interested in economic history, economic education and economic pluralism. I have teaching experience in undergradute and graduate level.
+
+  My work has been published in Food Policy and Environment, Development and Sustainability, so far. During my PhD studies, I will work in seafood markets and its implications on local economies and health.
+
+  Any comments, questions or suggestions? Please send me an email! robertocardenasr@ufl.edu
+
 author:
-  - name: Nora Jones 
+  - name: Roberto Cárdenas Retamal
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
